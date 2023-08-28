@@ -1,7 +1,5 @@
 # Dice_Game
 
-# Simple Dice Game
-
 ## Overview
 
 This repository contains the code for a simple dice game that determines the winner between two players based on random dice rolls. When the button on the webpage is clicked, the game randomly selects a number between 1 and 6 for each player, changes the dice images accordingly, and then displays a message indicating which player won or if it was a tie.
